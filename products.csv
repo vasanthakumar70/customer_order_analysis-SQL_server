@@ -1,1 +1,11 @@
-
+product_id,product_name,category,price
+1,Laptop,Electronics,800
+2,Smartphone,Electronics,500
+3,T-shirt,Clothing,20
+4,Jeans,Clothing,40
+5,Coffee Maker,Appliances,60
+6,Headphones,Electronics,50
+7,Sneakers,Footwear,70
+8,Watch,Accessories,100
+9,Bookshelf,Furniture,150
+10,Sunglasses,Accessories,30
