@@ -1,0 +1,16 @@
+customer_id,name,age,city,gender
+1,Alice,28,Chennai,Female
+2,Bob,35,Coimbatore,Male
+3,Carol,42,Bangalore,Female
+4,David,22,Hyderabad,Male
+5,Emily,29,Mumbai,Female
+6,Frank,31,Pune,Male
+7,Grace,25,Chennai,Female
+8,Henry,40,Coimbatore,Male
+9,Ivy,27,Bangalore,Female
+10,Jack,33,Hyderabad,Male
+11,Kate,38,Mumbai,Female
+12,Liam,24,Pune,Male
+13,Mia,30,Chennai,Female
+14,Noah,36,Coimbatore,Male
+15,Olivia,21,Bangalore,Female
